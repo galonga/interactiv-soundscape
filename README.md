@@ -1,4 +1,4 @@
-### interactiv-soundscape
+### interactive-soundscape
 
 ## What is this?
 
